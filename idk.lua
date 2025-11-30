@@ -1,3 +1,3 @@
 return {
-  ["CN_FANGZUN"] = true 
+  ["dustisgod333"] = true 
 }
